@@ -1,4 +1,4 @@
-opencv-python==4.8.0.76
+opencv-python-headless==4.8.0.76
 mediapipe==0.10.21
 numpy==1.23.5
 tensorflow==2.12.0
