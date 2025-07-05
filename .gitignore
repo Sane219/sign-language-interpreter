@@ -1,0 +1,13 @@
+# Ignore large dataset and model files
+data/asl_alphabet_train/
+data/processed/
+data/sign_language_model.h5
+# Ignore virtual environment
+myenv/
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.npygi
